@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **rankingtei@gmail.com**
 
+- Interests: 🎥 Film,  📺 TV, 📔 Books( Sci-fi, Comics), ⚽️ 🏀 Sports (Unfortunately)**
+
 - ⚡ Fun fact: **I think i'm the right person for you**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
