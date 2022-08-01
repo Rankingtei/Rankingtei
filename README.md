@@ -9,7 +9,7 @@
 
 - Interests: 🎥 **Film,  📺 TV, 📔 Books( Sci-fi, Comics), ⚽️ 🏀 Sports (Unfortunately)**
 
-- ⚡ Fun fact: **I think i'm the right person for you**
+- ⚡ Fun fact: **I think i'm the right person for you to work with**
 
 
 
