@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tei</h1>
 <h3 align="center">I'm currently on my iOS development journey, hoping to build some cool stuff along the way</h3>
 
-<p align="left"> <a href="https://twitter.com/ranking_tei" target="blank"><img src="https://img.shields.io/twitter/follow/ranking_tei?logo=twitter&style=for-the-badge" alt="ranking_tei" /></a> </p>
 
 - 💬 Ask me about, or offer advice on: **Swift,UIKit, SwiftUI**
 
